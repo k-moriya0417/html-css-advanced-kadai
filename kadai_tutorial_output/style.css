@@ -119,7 +119,7 @@ PC用のスタイル
     display: flex;
   }
 
-  #mission-flex>div {
+  #mission-flex > div {
     width: 50%;
     margin: 20px;
   }
@@ -130,6 +130,7 @@ PC用のスタイル
 
   #s2dgs {
     margin-top: 50px;
+    width: 100%;
   }
 
   /* プロダクト */
@@ -571,7 +572,7 @@ PC用のスタイル
     width: 100%;
     margin: 20px;
   }
-  #mission-h2 {
+  .mission-h2 {
     color: #2710d5;
     font-size: 40px;
   }
